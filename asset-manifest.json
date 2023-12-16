@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/catatan-belanja/static/css/main.22511377.css",
+    "main.js": "/catatan-belanja/static/js/main.0561de91.js",
+    "static/js/787.7b6579a8.chunk.js": "/catatan-belanja/static/js/787.7b6579a8.chunk.js",
+    "static/media/paper-bg.jpg": "/catatan-belanja/static/media/paper-bg.08592b85b71759b93496.jpg",
+    "index.html": "/catatan-belanja/index.html",
+    "main.22511377.css.map": "/catatan-belanja/static/css/main.22511377.css.map",
+    "main.0561de91.js.map": "/catatan-belanja/static/js/main.0561de91.js.map",
+    "787.7b6579a8.chunk.js.map": "/catatan-belanja/static/js/787.7b6579a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22511377.css",
+    "static/js/main.0561de91.js"
+  ]
+}
